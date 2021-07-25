@@ -26,9 +26,13 @@ h1 {font-family: Arial, Helvetica, sans-serif;}
             top: 0px;
             left: 220px;
             font-size: 21px;
+            margin-left: 20px;
         }
 
         .meu-nome {
             text-align: center;
         }
         
+        .foto {
+            padding: 10px;           
+        }
