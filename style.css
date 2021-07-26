@@ -10,11 +10,9 @@ h1 {font-family: Arial, Helvetica, sans-serif;}
         }
         #habilidades {font-family: Arial, Helvetica, sans-serif;}
         .list-habil {font-family: Arial, Helvetica, sans-serif;
-                     color: #2e2e2e;                     
+                     color: #00006f;                     
         }
-        .f1 {font-size: 45px;
-             color: black;
-        }
+        .f1 {font-size: 45px;}
         .f2 {font-size: 40px;}
         .f3 {font-size: 30px;}
         .f4 {font-size: 35px;}
@@ -37,4 +35,9 @@ h1 {font-family: Arial, Helvetica, sans-serif;}
             padding: 10px;
             margin-right: 1040px;
             background-color: #add8e6;           
+        }
+
+        #impar {
+            background-color: #add8e6;
+            color: #00008b; 
         }
