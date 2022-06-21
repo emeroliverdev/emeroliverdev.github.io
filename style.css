@@ -30,7 +30,7 @@ header {
 #profession-name {
   color: #ae841a;
   font-size: 70px;
-  font-family: 'open sans';
+  font-family: 'Montserrat';
   margin-left: 70px;
 }
   
@@ -58,6 +58,7 @@ header {
 }
 
 .subMenu {
+  position: fixed;
   color: #daa520;
   display: flex;
   align-items: space-araund;
